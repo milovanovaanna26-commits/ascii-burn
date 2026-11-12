@@ -1,0 +1,7 @@
+{
+  "uuid": "ascii-burn@local",
+  "name": "ASCII Burn",
+  "description": "Closing windows burn away from the bottom up in ASCII fire, matching the ASCII Fire wallpaper.",
+  "shell-version": ["50"],
+  "version": 1
+}
